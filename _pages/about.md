@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='http://insti.physics.sunysb.edu/itp/www/'>YITP</a>, Stony Brook University.
 
