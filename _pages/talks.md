@@ -6,13 +6,13 @@ nav: true
 nav_order: 4
 ---
 
-## Conference and invited Talks
+## Conference and invited talks
 
 **Brookhaven National Lab (BNL) Seminar (invited)**
 <br>
 Brookhaven, NY, USA — December 11th 2025
 <br>
-*Universal Standard Model Effective Field Theory beyond dimension-six"
+*Universal Standard Model Effective Field Theory beyond dimension-six*
 
 ---
 
@@ -25,3 +25,34 @@ CERN, Geneva, Switzerland — June 3rd 2025
 [\[slides\]](https://indico.cern.ch/event/1487697/contributions/6472441/attachments/3079033/5449564/HEFT%20Jay%20Slides.pdf)
 
 ---
+
+**[LHC EFT working group meeting, (online)](https://indico.cern.ch/event/1540699/#3-drell-yan-production-in-univ)**
+<br>
+April 28th 2025
+<br>
+*Drell-Yan production in universal theories beyond dimension-six SMEFT*
+<br>
+[\[slides\]](https://indico.cern.ch/event/1540699/contributions/6484050/attachments/3057694/5406741/Drell-Yan%20production%20in%20universal%20theories%20beyond%20dimension-six%20SMEFT.pdf)
+
+---
+
+**[DPF-Pheno 2024](https://indico.global/event/805/contributions/23437/)**
+<br>
+University of Pittsburgh, PA, USA — May 13th 2024
+<br>
+*Dimension-eight Operator Basis for Universal Standard Model Effective Field Theory*
+<br>
+[\[slides\]](https://indico.global/event/805/contributions/23437/attachments/11132/16468/Pheno%202024%20slides%20PDF.pdf)
+
+---
+
+**[Pheno 2023](https://indico.global/event/797/contributions/22080/)**
+<br>
+University of Pittsburgh, PA, USA — May 8th 2023
+<br>
+*A phenomenological study of Higgs jets at a muon collider*
+<br>
+[\[slides\]](https://indico.global/event/797/contributions/22080/attachments/9763/14822/Pheno%202023%20talk.pdf)
+
+---
+
