@@ -21,7 +21,7 @@ the community to perform global likelihood analyses for the data in the context 
 
 Currently, we are exploring how the High-Luminosity upgrade of the LHC will be able to constrain models that come under the umbrella of “universal” using techniques of EFT. 
 
-##Muon Collider
+## Muon Collider
 
 I am also interested in understanding how the proposed muon collider could provide a clean environment for new physics exploration. We are investigating the properties of final state Higgs
 and electroweak jets, incorporating higher order correction effects.
