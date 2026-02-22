@@ -3,7 +3,7 @@ layout: page
 permalink: /background/
 title: Background
 nav: true
-nav_order: 2
+nav_order: 5
 ---
 
 I completed my Masters in Physics from Stony Brook University in 2020 before joining the Ph.D. program. My Masters thesis, with Abhay Deshpande, was to assess the impact the proposed Electron-ion collider
