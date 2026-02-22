@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 Broadly speaking, there are two ways to pursue beyond standard model physics research. One is to build models then make predictions using them and test them at experiments.
