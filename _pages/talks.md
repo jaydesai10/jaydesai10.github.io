@@ -56,3 +56,28 @@ University of Pittsburgh, PA, USA — May 8th 2023
 
 ---
 
+**[Higgs 2022](https://indico.cern.ch/event/1086716/contributions/5052328/)**
+<br>
+Pisa, Italy (attended online) — Nov 9th 2022
+<br>
+*A phenomenological study of Higgs jets at a muon collider*
+<br>
+[\[slides\]](https://indico.cern.ch/event/1086716/contributions/5052328/attachments/2543959/4380464/Higgs%202022%20talk.pdf)
+
+---
+
+**[EIC Yellow Report: semi-inclusive working group meeting (online)]**
+<br>
+*Impact study of Kaon SIDIS at EIC on polarized strange quark distribution function*
+
+---
+
+**[APS April meeting 2020](https://meetings.aps.org/Meeting/APR20/Session/C14.3)**
+<br>
+(online) — April 18th 2020
+<br>
+*Strange quark polarized distribution function using SIDIS at EIC*
+<br>
+[\[slides\]](https://absuploads.aps.org/presentation.cfm?pid=18093)
+
+---
