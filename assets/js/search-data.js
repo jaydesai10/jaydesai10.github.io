@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-background",
-          title: "Background",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/background/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
@@ -36,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
+          },
+        },{id: "nav-background",
+          title: "Background",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/background/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
