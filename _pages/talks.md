@@ -13,6 +13,8 @@ nav_order: 4
 Brookhaven, NY, USA — December 11th 2025
 <br>
 *Universal Standard Model Effective Field Theory beyond dimension-six*
+<br>
+[\[slides\]]/assets/pdf/example_pdf.pdf
 
 ---
 
@@ -66,7 +68,7 @@ Pisa, Italy (attended online) — Nov 9th 2022
 
 ---
 
-**[EIC Yellow Report: semi-inclusive working group meeting (online)]**
+**EIC Yellow Report: semi-inclusive working group meeting (online)**
 <br>
 *Impact study of Kaon SIDIS at EIC on polarized strange quark distribution function*
 
