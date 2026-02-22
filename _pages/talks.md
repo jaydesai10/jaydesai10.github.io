@@ -14,7 +14,7 @@ Brookhaven, NY, USA — December 11th 2025
 <br>
 *Universal Standard Model Effective Field Theory beyond dimension-six*
 <br>
-[\[slides\]]/assets/pdf/example_pdf.pdf
+[\[slides\]](/assets/pdf/BNL_seminar.pdf)
 
 ---
 
