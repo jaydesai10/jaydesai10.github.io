@@ -27,6 +27,6 @@ I am a Ph.D. candidate at the Yang Institute for Theoretical Physics (YITP) in t
 
 I have worked on exploring how a model-independent Standard Model Effective Field Theory (SMEFT) approach can help us better understand physics beyond the standard model. I am also working on understanding Higgs and electroweak jets at a potential muon collider, with George Sterman. My publications are available at my <a href='https://inspirehep.net/authors/2794141'>Inspire</a> and <a href='https://scholar.google.com/citations?hl=en&user=ojrKnWMAAAAJ'>Google Scholar</a>. The best way to contact me is via <a href='mailto:jayddesai10@gmail.com'>email</a>.
 
-I am also interested in the emerging field of Quantum Computing and Information. I would like to understand how error-correcting codes and algorithmic ingenuity could potentially enable cases where classical computation limits can be surpassed. I am also interested in how quantum and classical hybrid algorithms can solve potentially hard optimization problems. 
+I am also interested in the emerging field of Quantum Computing and Information. I would like to understand how error-correcting codes and algorithmic ingenuity could potentially enable cases where classical computation limits can be surpassed. I am interested in how quantum and classical hybrid algorithms can solve potentially hard optimization problems. 
 
 
