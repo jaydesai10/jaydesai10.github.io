@@ -44,5 +44,5 @@ at CERN in Geneva, Switzerland.
 
 ## Extracurricular Activities
 
-During my undergrad, I was the joint-secretary of the Physics and Astronomy Club at IITR. We used to host frequent night-sky observation sessions, where we used to indulge in amateur astronomy with two Celestron telescopes. 
-We also hosted a small fest every year, named Cosmic Voyage, where there would be three days of events and webinars by eminent physicists from around the world. 
+During my undergrad, I was the joint-secretary of the Physics and Astronomy Club at IITR. We used to host frequent night-sky observation sessions, where we indulged in amateur astronomy with two Celestron telescopes. 
+We also hosted a small fest every year, named Cosmic Voyage, that had three days of events and webinars by eminent physicists and astronomers from around the world. 
