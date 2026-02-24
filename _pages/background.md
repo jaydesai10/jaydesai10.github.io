@@ -7,10 +7,11 @@ nav_order: 5
 ---
 
 I completed my Masters in Physics from Stony Brook University in 2020 before joining the Ph.D. program. My Masters thesis, with Abhay Deshpande, was to assess the impact the proposed Electron-ion collider
-will have on determining the contribution of the strange quark sea to the spin of the proton, potentially addressing the proton spin puzzle.
+will have on determining the contribution of the strange quark sea to the spin of the proton, potentially addressing the proton spin puzzle. I gained extensive experience using ROOT, a C++ based data analysis framework developed and maintained by CERN, and worked with an event generator DJANGOH to perform large-scale numerical simulations.
 
 I completed my undergraduate from the Indian Institute of Technology at Roorkee (IITR), where I obtained my Bachelor in Technology in Electronics and Communication Engineering with a Minor specialization in Physics.
-During my undergrad, I have been fortunate to have worked on physics summer internships at the Tata Institute of Fundamental Research (TIFR) in Mumbai and the Indian Institute of Science (IISc) in Bengaluru. 
+During my undergrad, I have been fortunate to have worked on physics summer internships at the Tata Institute of Fundamental Research (TIFR) in Mumbai and the Indian Institute of Science (IISc) in Bengaluru. I also learned important programming skills such as object oriented programming and data structures as part of the curriculum. 
+
 
 Along the way, I have visited some amazing places due to my work. I spent a month in Barcelona collaborating with my advisor in the Departament de Física Quàntica i Astrofísica at the Universitat de Barcelona.
 I attended the Invisibles summer school and workshop at Bologna, Italy. This past summer I had the opportunity to present a talk about my work at the Higgs and Effective Field Theory (HEFT) 2025 conference
