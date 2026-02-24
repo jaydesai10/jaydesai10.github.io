@@ -16,7 +16,7 @@ We have focused on a subset motivated by a physical hypothesis where NP only cou
 
 We have worked on analyzing the impact of the Electroweak Precision observables from LEP, the diboson data and the Drell Yan data from the LHC at CERN on the parameter space of Universal SMEFT.
 In order to achieve that we also constructed the basis of operators for Universal SMEFT at next to leading order, i.e. at dimension-eight. The introduction of this basis in literature will help 
-the community to perform global likelihood analyses for the data in the context of Universal SMEFT. My papers are available on Inspire.
+the community to perform global likelihood analyses for the data in the context of Universal SMEFT. My papers are available on <a href='https://inspirehep.net/authors/2794141'>Inspire</a> and <a href='https://scholar.google.com/citations?hl=en&user=ojrKnWMAAAAJ'>Google Scholar</a>.
 
 Currently, we are exploring how the High-Luminosity upgrade of the LHC will be able to constrain models that come under the umbrella of “universal” using techniques of EFT. 
 
