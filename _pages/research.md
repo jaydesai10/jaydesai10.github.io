@@ -18,7 +18,9 @@ We have worked on analyzing the impact of the Electroweak Precision observables 
 In order to achieve that we also constructed the basis of operators for Universal SMEFT at next to leading order, i.e. at dimension-eight. The introduction of this basis in literature will help 
 the community to perform global likelihood analyses for the data in the context of Universal SMEFT. My papers are available on Inspire.
 
-Currently, we are exploring how the High-Luminosity upgrade of the LHC will be able to constrain models that come under the umbrella of “universal” using techniques of EFT. Over the course of my Ph.D., I significantly expanded my programming and computational skill set. I have extensive experience in Python and C++, and have developed strong proficiency in advanced numerical and symbolic computation tools and packages widely used in high-energy phenomenology, including Mathematica, FeynRules, FeynCalc, and Matchete. I also have hands-on experience with simulation frameworks such as MadGraph and Pythia for large-scale computational modeling and data analysis.
+Currently, we are exploring how the High-Luminosity upgrade of the LHC will be able to constrain models that come under the umbrella of “universal” using techniques of EFT. 
+
+Over the course of my Ph.D., I significantly expanded my programming and computational skill set. I have extensive experience in Python and C++, and have developed strong proficiency in advanced numerical and symbolic computation tools and packages widely used in high-energy phenomenology, including Mathematica, FeynRules, FeynCalc, and Matchete. I also have hands-on experience with simulation frameworks such as MadGraph and Pythia for large-scale computational modeling and data analysis.
 
 ## Muon Collider
 
