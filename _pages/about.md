@@ -29,6 +29,8 @@ I have worked on exploring how a model-independent Standard Model Effective Fiel
 
 I am also interested in the emerging field of Quantum Computing and Information. I would like to understand how error-correcting codes and algorithmic ingenuity could potentially enable cases where classical computation limits can be surpassed. I am interested in how quantum and classical hybrid algorithms can solve potentially hard optimization problems. 
 
+I am interested in solving problems that leverage advanced mathematical modeling and data driven problem solving.
+
 ## Background
 
 I completed my Masters in Physics from Stony Brook University in 2020 before joining the Ph.D. program. My Masters thesis, with Abhay Deshpande, was to assess the impact the proposed Electron-ion collider
