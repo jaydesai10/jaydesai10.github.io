@@ -27,7 +27,7 @@ I am a Ph.D. candidate at the Yang Institute for Theoretical Physics (YITP) in t
 
 I have worked on exploring how a model-independent Standard Model Effective Field Theory (SMEFT) approach can help us better understand physics beyond the standard model. I am also working on understanding Higgs and electroweak jets at a potential muon collider, with George Sterman. I have published three research articles in the top-tier journal Physical Review D, and I am currently working on two projects. My publications are available at my <a href='https://inspirehep.net/authors/2794141'>Inspire</a> and <a href='https://scholar.google.com/citations?hl=en&user=ojrKnWMAAAAJ'>Google Scholar</a>. The best way to contact me is via <a href='mailto:jayddesai10@gmail.com'>email</a>.
 
-I am interested in scientific machine learning, physics-informed neural networks, and quantum information science. I am excited to work on AI-assisted scientific discovery. This opens up an exciting window for scientists to use AI to solve scientific problems with a previously unseen scale and speed.
+I am interested in scientific machine learning, physics-informed neural networks, and quantum information science. I am excited to work on AI-assisted scientific discovery. Advancements in this area have opened up an exciting window for scientists to use AI to solve scientific problems with a previously unseen scale and speed.
 
 I am also interested in the emerging field of Quantum Computing and Information. I would like to understand how error-correcting codes and algorithmic ingenuity could potentially enable cases where classical computation limits can be surpassed. I am interested in how quantum and classical hybrid algorithms can solve potentially hard optimization problems. 
 
