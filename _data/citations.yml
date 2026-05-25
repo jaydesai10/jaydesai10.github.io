@@ -1,15 +1,23 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-25'
 papers:
   ojrKnWMAAAAJ:9yKSN-GCB0IC:
-    citations: 6
+    citations: 7
     title: Drell-Yan production in universal theories beyond dimension-six SMEFT
     year: '2025'
+  ojrKnWMAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: USMEFT as a tool for discovery of universal new physics at high luminosity LHC
+    year: '2026'
+  ojrKnWMAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: Positivity in Massive Spin-3/2 EFTs and the Planck-Suppressed Neighbourhood of Supergravity
+    year: '2026'
   ojrKnWMAAAAJ:u-x6o8ySG0sC:
-    citations: 41
+    citations: 43
     title: Impact of dimension-eight SMEFT operators in the electroweak precision observables and triple gauge couplings analysis in universal SMEFT
     year: '2023'
   ojrKnWMAAAAJ:u5HHmVD_uO8C:
-    citations: 13
+    citations: 16
     title: Dimension-eight operator basis for universal standard model effective field theory
     year: '2024'
